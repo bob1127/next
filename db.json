@@ -5,14 +5,16 @@
           "name": "Ghost Whey X Chips Ahoy",
           "details": "我们以前说过，我们还要再说一遍，没有什么能与真正的饼干相媲美。经过多年的研发，每一勺中都含有真正的CHIPS AHOY!",
           "price": "$99999999999",
-          "image": "https://www.zensor.com.tw/images//Index-Img/Product-Img/無線恆電位儀-OUT.webp"
+          "image": "https://www.zensor.com.tw/images//Index-Img/Product-Img/無線恆電位儀-OUT.webp",
+           "description" : "胃幽門螺旋桿菌（Helicobacter pylori）是一種微小的革蘭氏陰性菌。胃幽門螺旋桿菌是螺旋狀且具有纖毛，這種形狀使得它能夠在胃部黏膜中穿梭移動。它表面的黏附分子能夠與胃部黏膜細胞表面的受體結合，這有助於它們固定在胃部黏膜上並避免被洗脫。這些特點使得胃幽門螺旋桿菌能夠在胃部環境中存活並定居，導致感染和相關的胃部問題。"
         },
       {
           "id": "ghost-whey-vegan",
           "name": "GHOST® Vegan Protein",
           "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$9999999909949.99",
-          "image": "https://www.zensor.com.tw/images//Index-Img/Product-Img/無線恆電位儀-OUT.webp"
+          "image": "https://www.zensor.com.tw/images//Index-Img/Product-Img/無線恆電位儀-OUT.webp",
+         "description" : ""
         }
   ],
   "profile": {
